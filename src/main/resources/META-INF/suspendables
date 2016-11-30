@@ -1,0 +1,9 @@
+org.mockito.internal.verification.VerificationWrapper.verify
+org.mockito.internal.verification.MockAwareVerificationMode.verify
+org.mockito.internal.handler.NullResultGuardian.handle
+org.mockito.internal.handler.MockHandlerImpl.handle
+org.mockito.internal.handler.InvocationNotifierHandler.handle
+org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.doIntercept
+org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$DispatcherDefaultingToRealMethod.interceptAbstract
+org.mockito.verification.VerificationMode.verify
+
